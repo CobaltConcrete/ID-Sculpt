@@ -76,7 +76,6 @@ easydict==1.12
 einops==0.6.1
 embreex==2.17.7.post3
 entrypoints==0.4
-envlight @ git+https://github.com/ashawkey/envlight.git@ef492c03711c87287549a0283ee51199f45cbea4
 everett==3.0.0
 executing==1.0.0
 facexlib==0.3.0
@@ -200,7 +199,6 @@ nodeenv==1.7.0
 notebook==6.4.12
 numba==0.58.0
 numpy==1.23.0
-nvdiffrast @ git+https://github.com/NVlabs/nvdiffrast.git@c5caf7bdb8a2448acc491a9faa47753972edd380
 nvidia-ml-py3==7.352.0
 oauthlib==3.2.0
 omegaconf==2.3.0
