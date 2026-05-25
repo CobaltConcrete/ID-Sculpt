@@ -188,7 +188,6 @@ mrcfile==1.5.2
 msgpack==1.0.4
 multiaddr==0.0.9
 multidict==6.0.2
-mvdream @ file:///apdcephfs/private_haolinliu/4dfy/extern/MVDream
 mxnet==1.6.0
 mypy==0.971
 mypy-extensions==0.4.3
