@@ -21,7 +21,6 @@ attrs==22.1.0
 av==11.0.0
 Babel==2.10.3
 backcall==0.2.0
-bagua-cuda113==0.9.0
 base58==2.1.1
 basicsr==1.4.2
 beautifulsoup4==4.11.1
