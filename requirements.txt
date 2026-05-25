@@ -334,7 +334,6 @@ swagger-spec-validator==2.7.6
 sympy==1.11.1
 tabulate==0.8.10
 taming-transformers-rom1504==0.0.6
-tb-nightly==2.11.0a20220906
 tensorboard==2.10.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
